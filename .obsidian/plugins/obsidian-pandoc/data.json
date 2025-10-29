@@ -1,0 +1,15 @@
+{
+  "showCLICommands": true,
+  "addExtensionsToInternalLinks": "html",
+  "injectAppCSS": "light",
+  "injectThemeCSS": false,
+  "customCSSFile": null,
+  "displayYAMLFrontmatter": false,
+  "linkStrippingBehaviour": "text",
+  "highDPIDiagrams": true,
+  "pandoc": "/usr/local/bin/pandoc",
+  "pdflatex": null,
+  "outputFolder": "/Users/jayqing/Documents/obsidian_export",
+  "extraArguments": "--citeproc -M reference-section-title=References -M link-citations=true --bibliography /Users/jayqing/Templates/zotero_ref/ref.bib --csl /Users/jayqing/Templates/ref_csl/elsevier-harvard.csl -M link-citations=true​ --reference-doc /Users/jayqing/Templates/pandoc_docs/paper_export_reference.docx --shift-heading-level-by=-1 --mathjax",
+  "exportFrom": "md"
+}

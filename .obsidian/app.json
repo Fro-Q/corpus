@@ -1,0 +1,16 @@
+{
+  "attachmentFolderPath": "./",
+  "promptDelete": false,
+  "newLinkFormat": "relative",
+  "showUnsupportedFiles": true,
+  "propertiesInDocument": "source",
+  "tabSize": 2,
+  "useMarkdownLinks": true,
+  "useTab": false,
+  "alwaysUpdateLinks": true,
+  "readableLineLength": false,
+  "showLineNumber": false,
+  "vimMode": true,
+  "strictLineBreaks": true,
+  "rightToLeft": false
+}

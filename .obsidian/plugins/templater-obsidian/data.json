@@ -1,0 +1,119 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "_template",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "000_META/010_particula",
+      "template": "_template/tp_meta_particula.md"
+    },
+    {
+      "folder": "000_META/020_unda",
+      "template": "_template/tp_meta_unda.md"
+    },
+    {
+      "folder": "000_META/030_labes",
+      "template": "_template/tp_meta_labes.md"
+    },
+    {
+      "folder": "100_COSMO/110_phaenomena/111_mirabilia",
+      "template": "_template/tp_cosmo_mirabilia.md"
+    },
+    {
+      "folder": "100_COSMO/110_phaenomena/112_monumenta",
+      "template": "_template/tp_cosmo_monumenta.md"
+    },
+    {
+      "folder": "100_COSMO/110_phaenomena/113_experientia",
+      "template": "_template/tp_cosmo_experientia.md"
+    },
+    {
+      "folder": "100_COSMO/120_forma",
+      "template": "_template/tp_cosmo_forma.md"
+    },
+    {
+      "folder": "100_COSMO/130_natura",
+      "template": "_template/tp_cosmo_natura.md"
+    },
+    {
+      "folder": "100_COSMO/140_pathologia",
+      "template": "_template/tp_cosmo_pathologia.md"
+    },
+    {
+      "folder": "200_NOOSPHERE/210_primordial",
+      "template": "_template/tp_noosphere_primordial.md"
+    },
+    {
+      "folder": "200_NOOSPHERE/220_mycelium",
+      "template": "_template/tp_noosphere_mycelium.md"
+    },
+    {
+      "folder": "200_NOOSPHERE/230_aporia/231_ousia",
+      "template": "_template/tp_noosphere_ousia.md"
+    },
+    {
+      "folder": "200_NOOSPHERE/230_aporia/232_aition",
+      "template": "_template/tp_noosphere_aition.md"
+    },
+    {
+      "folder": "200_NOOSPHERE/230_aporia/233_phantasia",
+      "template": "_template/tp_noosphere_phantasia.md"
+    },
+    {
+      "folder": "200_NOOSPHERE/230_aporia/234_pathos",
+      "template": "_template/tp_noosphere_pathos.md"
+    },
+    {
+      "folder": "200_NOOSPHERE/230_aporia/235_metron",
+      "template": "_template/tp_noosphere_metron.md"
+    },
+    {
+      "folder": "200_NOOSPHERE/230_aporia/236_mimesis",
+      "template": "_template/tp_noosphere_mimesis.md"
+    },
+    {
+      "folder": "200_NOOSPHERE/240_epiphany",
+      "template": "_template/tp_noosphere_epiphany.md"
+    },
+    {
+      "folder": "300_FLUXUS/310_afflatus",
+      "template": "_template/tp_fluxus_afflatus.md"
+    },
+    {
+      "folder": "300_FLUXUS/320_gesta",
+      "template": "_template/tp_fluxus_gesta.md"
+    },
+    {
+      "folder": "300_FLUXUS/330_ruminatio",
+      "template": "_template/tp_fluxus_ruminatio.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "intellisense_render": 1,
+  "enable_ribbon_icon": true
+}

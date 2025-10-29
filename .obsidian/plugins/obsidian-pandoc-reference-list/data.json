@@ -1,0 +1,14 @@
+{
+  "pathToPandoc": "/usr/local/bin/pandoc",
+  "tooltipDelay": 400,
+  "zoteroGroups": [],
+  "renderCitations": true,
+  "renderCitationsReadingMode": true,
+  "renderLinkCitations": true,
+  "pathToBibliography": "/Users/oQ/3_resources/research/refs/zotero.bib",
+  "cslStylePath": "",
+  "cslLang": "en-GB",
+  "enableCiteKeyCompletion": true,
+  "showCitekeyTooltips": true,
+  "cslStyleURL": "https://raw.githubusercontent.com/citation-style-language/styles/master/multidisciplinary-digital-publishing-institute.csl"
+}

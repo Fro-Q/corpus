@@ -1,0 +1,14 @@
+{
+  "accentColor": "",
+  "cssTheme": "Qlean",
+  "nativeMenus": false,
+  "baseFontSize": 20,
+  "translucency": false,
+  "enabledCssSnippets": [
+    "supercharged-links-gen",
+    "my_style"
+  ],
+  "theme": "obsidian",
+  "showRibbon": true,
+  "showViewHeader": true
+}

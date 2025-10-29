@@ -1,0 +1,9 @@
+{
+  "citationExportFormat": "biblatex",
+  "literatureNoteTitleTemplate": "@{{citekey}}",
+  "literatureNoteFolder": "reading_notes",
+  "literatureNoteContentTemplate": "---\ncitekey: {{citekey}}\nauthors: {{authorString}}\ntitle: \"{{title}}\"\nyear: {{year}}\ncontainer: {{containerTitle}}\npage: {{page}}\nDOI: {{DOI}}\nlink_to_zotero: {{zoteroSelectURI}}\ntags: \n  - note\n---\n\n## Abstract\n\n{{abstract}}\n\n",
+  "markdownCitationTemplate": "[@{{citekey}}]",
+  "alternativeMarkdownCitationTemplate": "@{{citekey}}",
+  "citationExportPath": "/Users/oQ/3_resources/research/refs/zotero.bib"
+}

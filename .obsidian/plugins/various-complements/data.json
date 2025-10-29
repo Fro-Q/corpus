@@ -1,0 +1,128 @@
+{
+  "strategy": "chinese",
+  "cedictPath": "./_config/_complement_config/cedict_ts.u8",
+  "matchStrategy": "prefix",
+  "fuzzyMatch": true,
+  "minFuzzyMatchScore": 0.5,
+  "matchingWithoutEmoji": true,
+  "treatAccentDiacriticsAsAlphabeticCharacters": true,
+  "treatUnderscoreAsPartOfWord": false,
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 5,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "disableSuggestionsInMathBlock": true,
+  "insertSpaceAfterCompletion": false,
+  "firstCharactersDisableSuggestions": ":/^@",
+  "patternsToSuppressTrigger": [
+    "^~~~.*",
+    "^```.*"
+  ],
+  "phrasePatternsToSuppressTrigger": [],
+  "noAutoFocusUntilCycle": false,
+  "showMatchStrategy": true,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Full",
+  "hotkeys": {
+    "select": [
+      {
+        "modifiers": [
+          "Ctrl"
+        ],
+        "key": "Enter",
+        "hideHotkeyGuide": false
+      }
+    ],
+    "select with custom alias": [],
+    "up": [
+      {
+        "modifiers": [
+          "Ctrl"
+        ],
+        "key": "k",
+        "hideHotkeyGuide": false
+      },
+      {
+        "modifiers": [
+          "Ctrl"
+        ],
+        "key": "[",
+        "hideHotkeyGuide": false
+      }
+    ],
+    "down": [
+      {
+        "modifiers": [
+          "Ctrl"
+        ],
+        "key": "j",
+        "hideHotkeyGuide": false
+      },
+      {
+        "modifiers": [
+          "Ctrl"
+        ],
+        "key": "]",
+        "hideHotkeyGuide": false
+      }
+    ],
+    "select 1st": [],
+    "select 2nd": [],
+    "select 3rd": [],
+    "select 4th": [],
+    "select 5th": [],
+    "select 6th": [],
+    "select 7th": [],
+    "select 8th": [],
+    "select 9th": [],
+    "open": [],
+    "completion": [],
+    "insert as text": []
+  },
+  "propagateEsc": true,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "excludeCurrentFileWordPatterns": [],
+  "enableCurrentVaultComplement": true,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "excludeCurrentVaultWordPatterns": [],
+  "enableCustomDictionaryComplement": true,
+  "customDictionaryPaths": "_config/_complement_config/_dictionary.md",
+  "columnDelimiter": "Pipe",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "&&",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": ">>",
+  "caretLocationSymbolAfterComplement": "<caret>",
+  "displayedTextSuffix": "……",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": true,
+  "excludeInternalLinkPathPrefixPatterns": "_template/",
+  "updateInternalLinksOnSave": true,
+  "insertAliasTransformedFromDisplayedInternalLink": {
+    "enabled": true,
+    "beforeRegExp": "(?<name>.+) \\(.+\\)$",
+    "after": "$<name>"
+  },
+  "frontMatterKeyForExclusionInternalLink": "",
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "intelligentSuggestionPrioritization": {
+    "enabled": true,
+    "historyFilePath": "",
+    "maxDaysToKeepHistory": 30,
+    "maxNumberOfHistoryToKeep": 0
+  },
+  "disableOnMobile": true,
+  "showLogAboutPerformanceInConsole": true,
+  "insertAfterCompletion": false,
+  "selectionHistoryTree": {}
+}

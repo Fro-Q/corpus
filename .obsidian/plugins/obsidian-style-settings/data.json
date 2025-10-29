@@ -1,0 +1,23 @@
+{
+  "accent-color@@accent-color-dark-hue-default": 17,
+  "accent-color@@accent-color-dark-saturation-default": 83,
+  "accent-color@@accent-color-dark-lightness-default": 78,
+  "accent-color@@accent-color-light-hue-default": 17,
+  "accent-color@@accent-color-light-saturation-default": 83,
+  "accent-color@@accent-color-light-lightness-default": 78,
+  "focus-mode@@zen-mode": false,
+  "inline-elements@@colorful-headers": true,
+  "inline-elements@@header-color-gradient": false,
+  "supercharged-links@@50bb-96f9-before": "adwd",
+  "supercharged-links@@50bb-96f9-after": "awdawd",
+  "accent-color@@accent-color-for-light-theme": "accent-color-sage-light",
+  "accent-color@@accent-color-for-dark-theme": "accent-color-peach-dark",
+  "focus-mode@@fade-out-inactive-lines": false,
+  "font@@font-monospace": "Monaspace Radon NF, YshiPen-ShutiTC",
+  "font@@font-source-view": "Monaspace Radon NF, YshiPen-ShutiTC",
+  "font@@font-inline-title": "YshiPen-ShutiTC, QiushuiShotai, Fusion Kai J, LXGW WenKai Mono",
+  "font@@font-file-tree": "YshiPen-ShutiTC, QiushuiShotai, Fusion Kai J, LXGW WenKai Mono",
+  "font@@font-interface-override": "YshiPen-ShutiTC, QiushuiShotai, Fusion Kai J, LXGW WenKai Mono",
+  "font@@font-header": "YshiPen-ShutiTC, QiushuiShotai, Fusion Kai J, LXGW WenKai Mono",
+  "font@@font-text": "YshiPen-ShutiTC, QiushuiShotai, Fusion Kai J, LXGW WenKai Mono"
+}
