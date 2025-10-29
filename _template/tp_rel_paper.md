@@ -5,11 +5,11 @@ status: probe
 last_modified: {{date}}
 type: paper
 citation_key: {{citation_key}}
-{{title}}
-{{author}}
-{{journal}}
-{{year}}
-{{doi}}
+title: {{title}}
+author: {{author}}
+journal: {{journal}}
+year: {{year}}
+doi: {{doi}}
 ---
 
 *What knowledge does this paper claim to unearth,*
