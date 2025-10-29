@@ -1,6 +1,6 @@
 ---
 created: {{date}}
-layer: vigil
-status: form
+layer: delirium
+status: canon
 last_modified: {{date}}
 ---

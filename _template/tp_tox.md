@@ -1,6 +1,6 @@
 ---
 created: {{date}}
-layer: ingesta
+layer: ingesta/toxicon
 status: probe
 last_modified: {{date}}
 ---

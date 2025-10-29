@@ -1,6 +1,6 @@
 ---
 created: {{date}}
-layer: neoplasma
+layer: neoplasma/cor
 status: probe
 last_modified: {{date}}
 ---

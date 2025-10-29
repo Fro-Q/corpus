@@ -1,6 +1,6 @@
 ---
 created: {{date}}
-layer: ingesta
+layer: ingesta/reliquia
 status: probe
 last_modified: {{date}}
 type: paper

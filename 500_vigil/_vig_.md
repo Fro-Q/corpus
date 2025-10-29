@@ -1,4 +1,4 @@
-# **VIGIL**
+# **Vigil**
 
 > *To write is to remain awake among the dead.*
 

@@ -1,6 +1,6 @@
 ---
 created: {{date}}
-layer: autopsia
+layer: autopsia/pathologia
 status: probe
 last_modified: {{date}}
 ---
