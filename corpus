@@ -441,7 +441,7 @@ COMMANDS:
     version                     Show version and system status
 
 OPTIONS:
-    --status=<status>           Set entry status (probe, draft, evergreen, canon)
+    --status=<status>           Set entry status (draft, probe, form, canon, void)
     --no-edit                   Don't open editor after creation
     --type=paper               Use paper template (for reliquia layer)
 
