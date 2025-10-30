@@ -1,22 +1,20 @@
 ---
-created: 2025-10-21
-layer: ingesta
+created: 2025-10-30
+layer: ingesta/reliquia
 status: probe
-last_modified: 2025-10-21
+last_modified: 2025-10-30
 type: paper
-citation_key: @yang2025
-title: 基于BP神经网络与遥感反演的太湖热浪规律研究
-author: 杨逸帆, 岳林坦, 邓建明, 陆应诚, 朱广伟, 秦伯强
+citation_key: @yue2025
+title: 大型浅水湖泊叶绿素a浓度对高温热浪响应的模拟研究
+author: 岳林坦, 杨逸帆, 庄新凤, 陈韦钰, 孔祥臻, 邓建明, 赵中华, 陆应诚, 朱广伟, 秦伯强
 journal: 湖泊科学
+year: 2025
+doi: 10.18307/2026.0110
 ---
 
 *What knowledge does this paper claim to unearth,*
 *and which forgotten or buried truths*
 *does it seek to resurrect in the name of progress?*  
-
-## Points
-
-- MODIS11A1 LST daily + BP neural network
 
 ---
 

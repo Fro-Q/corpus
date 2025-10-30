@@ -1,0 +1,33 @@
+---
+created: 2025-10-29
+layer: ingesta/reliquia
+status: probe
+last_modified: 2025-10-29
+type: paper
+citation_key: @yang2025
+title: 基于BP神经网络与遥感反演的太湖热浪规律研究
+author: 杨逸帆, 岳林坦, 邓建明, 陆应诚, 朱广伟, 秦伯强
+journal: 湖泊科学
+year: 2025
+doi: 10.18307/2025.0341
+---
+
+*What knowledge does this paper claim to unearth,*
+*and which forgotten or buried truths*
+*does it seek to resurrect in the name of progress?*  
+
+## Points
+
+- MODIS11A1 LST daily + BP neural network
+
+---
+
+*What underlying assumptions or methodologies does this paper invoke,*
+*and how might they distort the very truths it attempts to unveil?*  
+
+---
+
+*How does this paper challenge or reinforce*
+*the existing frameworks of thought,*
+*and what unseen biases or cracks in its reasoning*
+*does it conceal beneath its polished prose?*  
